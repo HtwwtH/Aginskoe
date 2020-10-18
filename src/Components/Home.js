@@ -1,37 +1,14 @@
 import React from 'react';
 import { Card, Col, Container, Row } from 'react-bootstrap';
-import { Nav } from 'react-bootstrap';
-import { Link } from 'react-router-dom';
 import Slider from './Slider';
 import card1 from './../images/card1.jpg';
 import card2 from './../images/card2.jpg';
 import card3 from './../images/card3.jpg';
 import history from './../images/history.jpg';
 import Jumbotron from './Jumbotron';
-import styled, { css } from 'styled-components';
-
-const Button = styled.button`
-  ${props => props.primary &&
-    css`
-      border: none;
-      border-radius: 5px;
-      background: #acbcd7;
-      color: white;
-
-      &: hover{
-      background: #9babc6;
-    }
-  `
-  };
-`;
-
-
 
 
 const Home = () => {
-  // const goAbout = () => {
-  //   window.location.assign('/about');
-  // }
 
   return (
     <>
