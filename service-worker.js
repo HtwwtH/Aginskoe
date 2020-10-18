@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Aginskoe/precache-manifest.90d5da2c4ba154d138d0155a2d8a8fb4.js"
+  "/Aginskoe/precache-manifest.4875486b451550a8c66a115d7548b731.js"
 );
 
 self.addEventListener('message', (event) => {

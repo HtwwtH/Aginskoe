@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Aginskoe/static/css/main.21eebb0a.chunk.css",
-    "main.js": "/Aginskoe/static/js/main.597bafb6.chunk.js",
-    "main.js.map": "/Aginskoe/static/js/main.597bafb6.chunk.js.map",
+    "main.js": "/Aginskoe/static/js/main.3539f41b.chunk.js",
+    "main.js.map": "/Aginskoe/static/js/main.3539f41b.chunk.js.map",
     "runtime-main.js": "/Aginskoe/static/js/runtime-main.ed6cbf19.js",
     "runtime-main.js.map": "/Aginskoe/static/js/runtime-main.ed6cbf19.js.map",
     "static/css/2.2a86faee.chunk.css": "/Aginskoe/static/css/2.2a86faee.chunk.css",
     "static/js/2.a53c189a.chunk.js": "/Aginskoe/static/js/2.a53c189a.chunk.js",
     "static/js/2.a53c189a.chunk.js.map": "/Aginskoe/static/js/2.a53c189a.chunk.js.map",
     "index.html": "/Aginskoe/index.html",
-    "precache-manifest.90d5da2c4ba154d138d0155a2d8a8fb4.js": "/Aginskoe/precache-manifest.90d5da2c4ba154d138d0155a2d8a8fb4.js",
+    "precache-manifest.4875486b451550a8c66a115d7548b731.js": "/Aginskoe/precache-manifest.4875486b451550a8c66a115d7548b731.js",
     "service-worker.js": "/Aginskoe/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/Aginskoe/static/css/2.2a86faee.chunk.css.map",
     "static/css/main.21eebb0a.chunk.css.map": "/Aginskoe/static/css/main.21eebb0a.chunk.css.map",
@@ -32,6 +32,6 @@
     "static/css/2.2a86faee.chunk.css",
     "static/js/2.a53c189a.chunk.js",
     "static/css/main.21eebb0a.chunk.css",
-    "static/js/main.597bafb6.chunk.js"
+    "static/js/main.3539f41b.chunk.js"
   ]
 }

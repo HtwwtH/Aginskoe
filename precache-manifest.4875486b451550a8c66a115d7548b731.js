@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2a219ef75140d19926e74b2ccae83936",
+    "revision": "9be6610ba07215b4674254acd1b0e52a",
     "url": "/Aginskoe/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aginskoe/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "b3e0946fc03a9410889c",
+    "revision": "9bac8a42c202cf64dffe",
     "url": "/Aginskoe/static/css/main.21eebb0a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aginskoe/static/js/2.a53c189a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b3e0946fc03a9410889c",
-    "url": "/Aginskoe/static/js/main.597bafb6.chunk.js"
+    "revision": "9bac8a42c202cf64dffe",
+    "url": "/Aginskoe/static/js/main.3539f41b.chunk.js"
   },
   {
     "revision": "b287b656a665a9c6a5f5",
